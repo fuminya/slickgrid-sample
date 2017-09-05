@@ -1,0 +1,30 @@
+{
+  "name": "slickgrid-sample",
+  "version": "1.0.0",
+  "description": "SlickGrid samples.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuminya/slickgrid-sample.git"
+  },
+  "keywords": [
+    "slickgrid"
+  ],
+  "author": "FuminaMIYAHARA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuminya/slickgrid-sample/issues"
+  },
+  "homepage": "https://github.com/fuminya/slickgrid-sample#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "slickgrid": "^2.3.3"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
