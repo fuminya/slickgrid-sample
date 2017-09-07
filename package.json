@@ -22,6 +22,7 @@
   "homepage": "https://github.com/fuminya/slickgrid-sample#readme",
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
     "slickgrid": "^2.3.3"
   },
   "devDependencies": {
