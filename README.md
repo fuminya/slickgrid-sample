@@ -4,7 +4,7 @@
 * 以下で動作します。
 
 ```terminal
-$ npm install
-$ npm run dev
+$ boser install
+$ http-server
 ```
 

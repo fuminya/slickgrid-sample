@@ -1,0 +1,26 @@
+{
+  "name": "slickgrid-sample",
+  "description": "SlickGrid samples.",
+  "main": "index.html",
+  "authors": [
+    "FuminaMIYAHARA"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "slickgrid"
+  ],
+  "homepage": "https://github.com/fuminya/slickgrid-sample",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slickgrid": "^2.1",
+    "slickgrid-6pac": "^2.3.8",
+    "jquery": "^1.12.1",
+    "bootstrap": "^3.3.7"
+  }
+}
